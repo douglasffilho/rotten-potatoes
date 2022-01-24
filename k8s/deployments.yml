@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: fabricioveronez/rotten-potatoes:latest
+        image: douglasffilho/rotten-potatoes:latest
         resources:
           limits:
             memory: "256Mi"
